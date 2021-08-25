@@ -60,6 +60,8 @@ console.log(anotherPart);
 const anotherAnotherPart = anthem.substring(11, 15);
 console.log(anotherAnotherPart);
 
+
+// concat means concatenation.
 //concat দুটি শব্দকে জোড়া দিতে concat() function ব্যবহার করা হয়। স্ট্রিং ইমিঊটেবল। তাই সাধারনভাবে  প্লাস দিয়ে না করা উচিত। 
 const first = 'Amader';
 const second = 'City';
