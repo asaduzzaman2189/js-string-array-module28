@@ -23,3 +23,4 @@ function getFullName(firstName, lastName) {
 }
 const fName = getFullName('Omuk', 'Songket', 'bin', 'Hanif', 'Songket', 'bin', 'Tomuk', 'Songket', 'bin', 'Komuk', 'Songket');
 console.log(fName);
+
